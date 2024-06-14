@@ -243,9 +243,6 @@ alias of:N*T*Cfocaltech,fts_ts focaltech_fts
 alias of:N*T*Cfocaltech,fts_tsC* focaltech_fts
 alias of:N*T*Cqcom,ufs-phy-qmp-v4-parrot phy_qcom_ufs_qmp_v4_parrot
 alias of:N*T*Cqcom,ufs-phy-qmp-v4-parrotC* phy_qcom_ufs_qmp_v4_parrot
-alias i2c:xiaomi,wl2866d wl2866d
-alias of:N*T*Cxiaomi,wl2866d wl2866d
-alias of:N*T*Cxiaomi,wl2866dC* wl2866d
 alias usb:v077Bp2226d*dc*dsc*dp*ic*isc*ip*in* asix
 alias usb:v0846p1040d*dc*dsc*dp*ic*isc*ip*in* asix
 alias usb:v2001p1A00d*dc*dsc*dp*ic*isc*ip*in* asix
@@ -693,6 +690,7 @@ alias of:N*T*Cregulator-fixed-clock qti_fixed_regulator
 alias of:N*T*Cregulator-fixed-clockC* qti_fixed_regulator
 alias i2c:i2c_pmic qcom_i2c_pmic
 alias i2c:i2c-pmic qcom_i2c_pmic
+alias i2c:awinic_haptic aw8697_haptic
 alias of:N*T*Carm,smmu-v1 arm_smmu
 alias of:N*T*Carm,smmu-v1C* arm_smmu
 alias of:N*T*Carm,smmu-v2 arm_smmu
@@ -770,6 +768,7 @@ alias pci:v000017CBd00001107sv*sd*bc*sc*i* cnss2
 alias pci:v000017CBd0000110Asv*sd*bc*sc*i* cnss2
 alias of:N*T*Cqcom,ipcc qcom_ipcc
 alias of:N*T*Cqcom,ipccC* qcom_ipcc
+alias i2c:rtc6226 radio_i2c_rtc6226_qca
 alias pwm:pwm-lpg pwm_qti_lpg
 alias of:N*T*Cir-spi ir_spi
 alias of:N*T*Cir-spiC* ir_spi
