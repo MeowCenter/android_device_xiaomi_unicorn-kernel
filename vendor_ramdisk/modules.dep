@@ -240,6 +240,7 @@
 /lib/modules/qcom-scm.ko:
 /lib/modules/qce50.ko: /lib/modules/sps_drv.ko
 /lib/modules/qcedev-mod.ko: /lib/modules/qce50.ko /lib/modules/sps_drv.ko /lib/modules/mem_buf_dev.ko /lib/modules/secure_buffer.ko /lib/modules/qcom-scm.ko /lib/modules/gh_rm_drv.ko /lib/modules/gh_dbl.ko /lib/modules/gh_msgq.ko /lib/modules/gh_arm_drv.ko
+/lib/modules/binder_prio.ko:
 /lib/modules/ipa_fmwk.ko:
 /lib/modules/msm-geni-se.ko:
 /lib/modules/usb_bam.ko: /lib/modules/sps_drv.ko
@@ -290,6 +291,7 @@
 /lib/modules/slim-qcom-ngd-ctrl.ko: /lib/modules/slimbus.ko /lib/modules/pdr_interface.ko /lib/modules/qmi_helpers.ko /lib/modules/rproc_qcom_common.ko /lib/modules/qcom_smd.ko /lib/modules/qcom_glink_smem.ko /lib/modules/qcom_glink.ko /lib/modules/smem.ko
 /lib/modules/hwmon.ko:
 /lib/modules/qti_amoled_ecm.ko: /lib/modules/hwmon.ko /lib/modules/panel_event_notifier.ko
+/lib/modules/kernelsu.ko:
 /lib/modules/snd-usb-audio-qmi.ko: /lib/modules/qmi_helpers.ko
 /lib/modules/cfg80211.ko:
 /lib/modules/mac80211.ko: /lib/modules/cfg80211.ko

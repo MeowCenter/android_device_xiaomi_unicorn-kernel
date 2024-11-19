@@ -240,6 +240,7 @@
 /vendor_dlkm/lib/modules/qcom-scm.ko:
 /vendor_dlkm/lib/modules/qce50.ko: /vendor_dlkm/lib/modules/sps_drv.ko
 /vendor_dlkm/lib/modules/qcedev-mod.ko: /vendor_dlkm/lib/modules/qce50.ko /vendor_dlkm/lib/modules/sps_drv.ko /vendor_dlkm/lib/modules/mem_buf_dev.ko /vendor_dlkm/lib/modules/secure_buffer.ko /vendor_dlkm/lib/modules/qcom-scm.ko /vendor_dlkm/lib/modules/gh_rm_drv.ko /vendor_dlkm/lib/modules/gh_dbl.ko /vendor_dlkm/lib/modules/gh_msgq.ko /vendor_dlkm/lib/modules/gh_arm_drv.ko
+/vendor_dlkm/lib/modules/binder_prio.ko:
 /vendor_dlkm/lib/modules/ipa_fmwk.ko:
 /vendor_dlkm/lib/modules/msm-geni-se.ko:
 /vendor_dlkm/lib/modules/usb_bam.ko: /vendor_dlkm/lib/modules/sps_drv.ko
@@ -290,6 +291,7 @@
 /vendor_dlkm/lib/modules/slim-qcom-ngd-ctrl.ko: /vendor_dlkm/lib/modules/slimbus.ko /vendor_dlkm/lib/modules/pdr_interface.ko /vendor_dlkm/lib/modules/qmi_helpers.ko /vendor_dlkm/lib/modules/rproc_qcom_common.ko /vendor_dlkm/lib/modules/qcom_smd.ko /vendor_dlkm/lib/modules/qcom_glink_smem.ko /vendor_dlkm/lib/modules/qcom_glink.ko /vendor_dlkm/lib/modules/smem.ko
 /vendor_dlkm/lib/modules/hwmon.ko:
 /vendor_dlkm/lib/modules/qti_amoled_ecm.ko: /vendor_dlkm/lib/modules/hwmon.ko /vendor_dlkm/lib/modules/panel_event_notifier.ko
+/vendor_dlkm/lib/modules/kernelsu.ko:
 /vendor_dlkm/lib/modules/snd-usb-audio-qmi.ko: /vendor_dlkm/lib/modules/qmi_helpers.ko
 /vendor_dlkm/lib/modules/cfg80211.ko:
 /vendor_dlkm/lib/modules/mac80211.ko: /vendor_dlkm/lib/modules/cfg80211.ko
