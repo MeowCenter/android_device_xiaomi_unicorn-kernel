@@ -198,6 +198,10 @@ qrtr-mhi.ko
 qrtr-gunyah.ko
 msm_drm.ko
 msm-mmrm.ko
+goodix_fod.ko
+qcom_pm8008-regulator.ko
+fts_touch_spi.ko
+aw8697-haptic.ko
 q6_notifier_dlkm.ko
 spf_core_dlkm.ko
 audpkt_ion_dlkm.ko
@@ -251,3 +255,4 @@ rmnet_ctl.ko
 msm-eva.ko
 msm_video.ko
 qca_cld3_qca6490.ko
+cs35l41_dlkm.ko
